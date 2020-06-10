@@ -17,14 +17,15 @@
 <ul>
 <li>Click OK</li>
 <li>Press Play button next to MOA GUI on top RIght of Intellij</li>
-<li>It will open MOA GUI application</li>
+<li>It will open MOA GUI application.<br>
+<img src="https://i.ibb.co/C8jm7KL/MOA.png" alt="MOA Window"></li>
 </ul>
 <h2 id="dataset">Dataset</h2>
 <p>The data sets are available in the repo. There are two types of dataset, ARFF for MOA and csv to be used for scikit-multiflow. For scikit-multiflow, the dataset need to be cleaned and modified to run the experiment.</p>
 <h2 id="scikit-multiflow-with-adaptive-random-forest-with-resampling">scikit-multiflow with Adaptive Random Forest with Resampling</h2>
 <p>We are also working on porting ARF_RE to python. The source code is available on <a href="https://github.com/kushvarma/scikit-multiflow.git">https://github.com/kushvarma/scikit-multiflow.git</a> and branch dm_arf.</p>
 <h2 id="results-from-moa-and-comparision-to-the-paper">Results from MOA and comparision to the PAPER</h2>
-<p><img src="https://i.ibb.co/C8jm7KL/MOA.png" alt="enter image description here"><br>
+<p><img src="https://i.ibb.co/L9bRBNB/results.png" alt="Result"><br>
 The current result is available in Result folder. Comparing result from the Paper.<br>
 All the test were run on Core i5 8400/ 32GB RAM machine.</p>
 
