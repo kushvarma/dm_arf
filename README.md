@@ -10,7 +10,8 @@
 <h2 id="dataset">Dataset</h2>
 <p>The data sets are available in the repo. There are two types of dataset, ARFF for MOA and csv to be used for scikit-multiflow. For scikit-multiflow, the dataset need to be cleaned and modified to run the experiment.</p>
 <h2 id="scikit-multiflow-with-adaptive-random-forest-with-resampling">scikit-multiflow with Adaptive Random Forest with Resampling</h2>
-<p>We are also working on porting ARF_RE to python. The source code is available on <a href="https://github.com/kushvarma/scikit-multiflow.git">https://github.com/kushvarma/scikit-multiflow.git</a> and branch dm_arf.</p>
+<p>We are also working on porting ARF_RE to python. The source code is available on <a href="https://github.com/kushvarma/scikit-multiflow.git">https://github.com/kushvarma/scikit-multiflow.git</a> and branch dm_arf.<br>
+<img src="https://ibb.co/cg28yvN" alt="Build MOA"></p>
 <h2 id="results">Results</h2>
 <p>The current result is available in Result folder. Comparing result from the Paper.<br>
 All the test were run on Core i5 8400/ 32GB RAM machine.</p>
