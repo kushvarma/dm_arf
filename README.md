@@ -24,6 +24,7 @@
 <h2 id="scikit-multiflow-with-adaptive-random-forest-with-resampling">scikit-multiflow with Adaptive Random Forest with Resampling</h2>
 <p>We are also working on porting ARF_RE to python. The source code is available on <a href="https://github.com/kushvarma/scikit-multiflow.git">https://github.com/kushvarma/scikit-multiflow.git</a> and branch dm_arf.</p>
 <h2 id="results">Results</h2>
-<p>The current result is available in Result folder. Comparing result from the Paper.<br>
+<p><img src="https://i.ibb.co/C8jm7KL/MOA.png" alt="enter image description here"><br>
+The current result is available in Result folder. Comparing result from the Paper.<br>
 All the test were run on Core i5 8400/ 32GB RAM machine.</p>
 
