@@ -27,10 +27,10 @@
 <h2 id="results-from-moa-and-comparision-to-the-paper">Results from MOA and comparision to the PAPER</h2>
 <p><img src="https://i.ibb.co/R04WChf/result1.png" alt="Result 1"><br>
 <img src="https://i.ibb.co/1Q7N9nf/result-2.png" alt="Result 2"><br>
-<img src="https://i.ibb.co/R04WChf/result1.png" alt="Result"><br>
+<img src="https://i.ibb.co/mXwrT27/result3.png" alt="Result 3"><br>
 The current result is available in Result folder. Comparing result from the Paper.<br>
 All the test were run on Core i5 8400/ 32GB RAM machine.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTEyMTE0NDJdfQ==
+eyJoaXN0b3J5IjpbLTY2ODk0NjkwMF19
 -->
