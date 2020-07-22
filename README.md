@@ -27,12 +27,13 @@
 <h2 id="scikit-multiflow-with-adaptive-random-forest-with-resampling">scikit-multiflow with Adaptive Random Forest with Resampling</h2>
 <p>We are also working on porting ARF_RE to python. The source code is available on <a href="https://github.com/kushvarma/scikit-multiflow.git">https://github.com/kushvarma/scikit-multiflow.git</a> and branch dm_arf.</p>
 <h2 id="results-from-moa-and-comparision-to-the-paper">Results from MOA and comparision to the PAPER</h2>
-<p><img src="https://i.ibb.co/R04WChf/result1.png" alt="Result 1"><br>
+<p><img src="https://i.ibb.co/5YDcnDs/result1.png" alt="Result 1"><br>
 <img src="https://i.ibb.co/1Q7N9nf/result-2.png" alt="Result 2"><br>
 <img src="https://i.ibb.co/mXwrT27/result3.png" alt="Result 3"><br>
 The current result is available in Result folder. Comparing result from the Paper.<br>
 All the test were run on Core i5 8400/ 32GB RAM machine.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDkxOTgyNywtNjY4OTQ2OTAwXX0=
+eyJoaXN0b3J5IjpbLTE5NzEyMjY5MzEsMTQwMDkxOTgyNywtNj
+Y4OTQ2OTAwXX0=
 -->
