@@ -5,6 +5,8 @@
 
 <h1 id="adaptive-random-forest-with-resampling-for-imbalanced-data-stream">Adaptive Random Forest with Resampling for Imbalanced data Stream</h1>
 <p>Paper by: Luis Eduardo Boiko Ferreira, Heitor Murilo Gomes, Albert Bifet, Luiz S. Oliveira.</p>
+<p>[Paper URL 1](https://ieeexplore.ieee.org/document/8852027)</p>
+<p></p>
 <h1 id="how-to-run">How to run?</h1>
 <p>Adaptive Random Forest with Resampling is not yet available in MOA. It has to be build. Use this Repo: <a href="https://github.com/kushvarma/moa.git">https://github.com/kushvarma/moa.git</a> and switch to branch arf_re to get the code. These instruction is for Intellij IDEA</p>
 <ul>
@@ -32,5 +34,5 @@ The current result is available in Result folder. Comparing result from the Pape
 All the test were run on Core i5 8400/ 32GB RAM machine.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODk0NjkwMF19
+eyJoaXN0b3J5IjpbLTE4ODg1MDEzODUsLTY2ODk0NjkwMF19
 -->
